@@ -1,0 +1,68 @@
+{
+  "about": {
+    "firstName": "Siii",
+    "lastName": "Kim",
+    "address": "Seoul, South Korea",
+    "tel": "(+82) 02-1234-1234",
+    "email": "22ini@naver.com",
+    "description": "짱짱맨 개발자입니다 호호",
+    "github": "https://github.com/saintkim12"
+  },
+  "experience": {
+    "list": [
+      {
+        "title": "선임연구원",
+        "subtitle": "(주)m114 개발팀",
+        "date": "2018.10 ~ 현재",
+        "description": "선임연구원"
+      },
+      {
+        "title": "개발 작업",
+        "subtitle": "",
+        "date": "2016.05 ~ 2018.06",
+        "description": "웹 서비스 구축"
+      }
+    ]
+  },
+  "education": {
+    "list": [
+      {
+        "title": "개발자 양성과정",
+        "subtitle": "중앙HTA",
+        "date": "2015.10 ~ 2016.02",
+        "description": "개발자 양성과정 수료"
+      },
+      {
+        "title": "학사 졸업",
+        "subtitle": "OO대학교",
+        "date": "",
+        "description": "학사 졸업"
+      }
+    ]
+  },
+  "skills": {
+    "skillList": [
+      "html",
+      "js",
+      "css",
+      "java",
+      "node.js",
+      "react",
+      "vue.js",
+      { "name": "database", "description": "Oracle, MS-SQL, PostgreSQL" },
+      "jQuery"
+    ],
+    "workFlowList": [
+      "Back-end Developer with Java environment(Spring, Spring boot)",
+      "Front-end Developer with JavaScript, Vue.js, jQuery, React...",
+      "Database and SQL",
+      "Manage Server(Linux...)"
+    ]
+  },
+  "interests": {
+    "list": ["개발함", "개발짱짱함", "최근에 Vue.js를 익혀 적용 중"]
+  },
+  "awards": {
+    "list": ["그런건 없다"]
+  }
+}
